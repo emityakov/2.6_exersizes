@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvvm-example</string>
+    <string name="increment">Increment</string>
+    <string name="counter">Counter:</string>
+</resources>
